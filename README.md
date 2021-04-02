@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/42662554/113409438-eda24680-93b9-11eb-9c8d-f12ea16f6441.png)
+
+
 # traffic-light
 
 ## Project setup
